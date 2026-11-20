@@ -1,0 +1,26 @@
+1. kỹ thuật FEYMEN
+4 bước 
+b1: chọn chủ đề chưa hiểu cần hc  
+b2: Hỏi AI giải thích dễ hiểu 
+b3: lỗ hổng kiến thức 
+b4: đi giải thích lại theo ý hiểu của mình cho AI đánh giá
+prompt:
+ bạn là chuyên gia về cấu trúc dữ liệu và giải thuật, tôi là sinh viên mới hc
+ lập trình đang cần tìm hiểu các cấu trúc dữ liệu (linked list, binary tree) bằng ngôn ngữ python. hãy giải thích cho đứa trẻ 10 tuổi hiểu dc
+
+-> hỏi lại AI nhg kiến thức chưa hiểu
+2. xây dựng  rubric để AI chấm điểm
+- 1\. Tính đúng đắn (Correctness) - 40% điểm.
++ có bug gì không?
++ chương trình chạy được nhưng có đúng không
+- 2\. Độ tối ưu thuật toán (Efficiency - Time/Space) - 30% điểm.
++ thuật toán chạy có nhanh không
++ tốn bnhiu dung lượng
+- 3\. Phong cách viết code (Code Style & Readability) - 20% điểm.
++ dễ hiểu?, gọn gàng?
++ đặt tên có chuyên nghiệp hay không
+- 4\. Xử lý ngoại lệ/Bắt lỗi (Edge Cases) - 10% điểm.
++ danh sách không có phần tử thì sao
++ danh sách có 1 pt thì sao
+form đăng ký sdt
+các trường hợp ngoại lệ \: chữ cái, kí tự đặc biệt, không đúng định dạng
